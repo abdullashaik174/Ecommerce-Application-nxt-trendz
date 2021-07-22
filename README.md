@@ -1,4 +1,4 @@
-In this practice let's build a **Nxt Trendz - Specific Product Details** by applying the concepts we have learned till now.
+Developed a **Nxt Trendz - Ecommerce APP** by applying the React js cocepts.
 
 ### Refer to the image below:
 
